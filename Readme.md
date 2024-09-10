@@ -1,1 +1,1 @@
-# chai and code serirs by hitesh choudhary
+# chai and code series by hitesh choudhary
